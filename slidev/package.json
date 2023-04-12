@@ -1,0 +1,19 @@
+{
+    "name": "nix-dev-env",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "slidev",
+        "build": "slidev build",
+        "export": "slidev export",
+        "static": "slidev build && caddy file-server --listen :2015 --root ./dist"
+    },
+    "dependencies": {
+        "@slidev/cli": "latest",
+        "@slidev/theme-default": "latest",
+        "@slidev/theme-seriph": "latest"
+    },
+    "author": "",
+    "license": "ISC"
+}

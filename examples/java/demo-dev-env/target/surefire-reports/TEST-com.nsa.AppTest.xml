@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.nsa.AppTest" time="0.028" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.nsa.AppTest" time="0.017" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="16"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/nix/store/abxdad5kjawswpggqxp5src14vmnffpi-openjdk-16+36/lib/openjdk/lib"/>
-    <property name="sun.java.command" value="/home/nico/Projects/Devoxx/nix-dev-env/examples/java/demo-dev-env/target/surefire/surefirebooter6832053428710221810.jar /home/nico/Projects/Devoxx/nix-dev-env/examples/java/demo-dev-env/target/surefire 2023-04-11T21-52-01_695-jvmRun1 surefire16186481017718715350tmp surefire_02856202573520222004tmp"/>
+    <property name="sun.java.command" value="/home/nico/Projects/Devoxx/nix-dev-env/examples/java/demo-dev-env/target/surefire/surefirebooter2339183497311890337.jar /home/nico/Projects/Devoxx/nix-dev-env/examples/java/demo-dev-env/target/surefire 2023-04-12T17-29-26_069-jvmRun1 surefire14314905614229480958tmp surefire_06183292282839254176tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/nico/Projects/Devoxx/nix-dev-env/examples/java/demo-dev-env/target/test-classes:/home/nico/Projects/Devoxx/nix-dev-env/examples/java/demo-dev-env/target/classes:/home/nico/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/nico/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/nico/Projects/Devoxx/nix-dev-env/examples/java/demo-dev-env/target/surefire/surefirebooter6832053428710221810.jar"/>
+    <property name="surefire.real.class.path" value="/home/nico/Projects/Devoxx/nix-dev-env/examples/java/demo-dev-env/target/surefire/surefirebooter2339183497311890337.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="16+36-nixos"/>
     <property name="user.name" value="nico"/>

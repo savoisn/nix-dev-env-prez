@@ -1,6 +1,6 @@
-let 
-  a = 3;
-  b = "quatre";
-  f = import ./toi.nix;
+let
+  a = 1;
+  b = 2;
+  f = import ./add.nix;
 in
-f {inherit a;}
+  f {a=a;}

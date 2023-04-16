@@ -4,6 +4,13 @@ date: 12 Avril 2023
 paging: Slide %d / %d
 
 ---
+```
+~~~catimg -H 30 ./nix.png
+
+~~~
+```
+
+---
 
 
 
@@ -234,6 +241,14 @@ pkgs.stdenv.mkDerivation rec {
 # Merci !
 
 ## Questions?
+
+```
+~~~catimg -H 30 ./nix.png
+
+~~~
+```
+
+
 
 ---
 
